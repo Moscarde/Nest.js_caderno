@@ -1,0 +1,1 @@
+Repositorio de projetos desenvolvidos durante o curso "Desenvolvimento Web Full Stack com NestJS (REST API) e React: Construa Aplicações Modernas e Escaláveis"
